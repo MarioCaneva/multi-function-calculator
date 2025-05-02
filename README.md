@@ -30,25 +30,8 @@ This Python-based calculator offers a range of mathematical tools including alge
 
 ---
 
-## 📽️ How to Use (Google Colab)
-
-1. Open the notebook in Google Colab.
-2. Run the cells to launch the menu-driven interface.
-3. Choose the desired operation by entering a number.
-4. Follow the prompts to input values and view results.
-
----
-
-## 🧪 Example Usage
-
-```python
-# Run the menu and choose "5" to solve for x
-# Input: x**2 - 4
-# Output: Solutions for x:
-# x1 = -2
-# x2 = 2
-
 🛠️ Technologies Used
+
 Python 3
 
 SymPy (symbolic mathematics)
