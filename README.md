@@ -6,21 +6,21 @@ This Python-based calculator offers a range of mathematical tools including alge
 
 ## 📌 Features
 
-- ✅ Basic arithmetic (add, subtract, multiply, divide)
-- 🔍 Prime number check
-- 🔢 Prime factorization
-- 🧮 Square root simplification
-- 🧩 Equation solver for variable `x`
-- 🔁 Convert:
+- Basic arithmetic (add, subtract, multiply, divide)
+- Prime number check
+- Prime factorization
+- Square root simplification
+- Equation solver for variable `x`
+- Convert:
   - Decimal ↔ Fraction
   - Decimal ↔ Percent
   - Fraction ↔ Percent
   - Percent ↔ Fraction
-- 🧮 Solve proportions (a/b = c/x)
+  - Solve proportions (a/b = c/x)
 
 ---
 
-## 🎯 Educational Concepts Covered
+## 🧮 Educational Concepts Covered
 
 - Algebra and equations
 - Number theory (prime checks, factorization)
